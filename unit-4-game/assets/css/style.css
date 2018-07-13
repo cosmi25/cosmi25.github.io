@@ -1,0 +1,92 @@
+.container {
+   width: 980px;
+   height: 750px;
+   background-image: url("../images/square_bg.png");
+   background-color: #9abff7;
+   border: 2px solid #31a0a0;
+   margin: auto;
+}
+.heading {
+    width: 99%;
+    height: 5%;
+    background-color: #31a0a0;
+    border: 5px solid #31a0a0;
+    padding: 20px 0;
+    margin: auto;   
+    color: #0f1675;
+    text-align: center;
+    font-size: 20px;   
+}
+
+.txContent {
+    width: 80%;
+    height: 30%;
+    background-color: aliceblue;
+    border: 1px solid #9abff7;
+    margin: 20px;
+    padding: 10px 20px 30px 20px;
+    text-align: justify;
+    color:#0f1675;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.h2 {
+    width: 100%;
+    margin: auto;
+    padding: 10px 2px;
+    border: 1px solid #31a0a0;
+    background-color: #31a0a0;
+    font-size: 18px;
+    border-bottom:2px solid #0f1675;
+}
+
+.btn {
+    background-color: aliceblue;
+    border: 1.5px solid #0f1675;
+    margin-right: 20px;
+    float: right;
+    margin-top: 20px;
+}
+
+#random {
+    width: 70px;
+    height: 50px;
+    border: 1.5px solid #0f1675;
+    float: left;
+    margin: 20px;
+    padding: 30px;
+    background-color: #31a0a0;
+    color: #0f1675;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 40%;
+}
+
+.win-loss {
+    width: 180px;
+    height: 70px;
+    border: 1.5px solid #0f1675;
+    float: left;
+    padding: 30px;
+    background-color: #31a0a0;
+    color: #0f1675;
+    font-size: 16px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.score-nr {
+    width: 70px;
+    height: 50px;
+    border: 1.5px solid #0f1675;
+    float: left;
+    margin: 20px;
+    padding: 30px;
+    background-color: aliceblue;
+    color: #0f1675;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 40%;
+}
+
