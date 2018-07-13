@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.btn {
+    height: 25px;
+    margin: 15px;
+    padding: 2px 15px;
+    background-color: teal;
+    color: aliceblue;
+    font-size: 14px;
+}
+
+.row {
+    height:200px;
+    padding: 5px;
+}
+
+.img {
+    margin: 0 15px 15px 15px;
+    max-width: 200px;
+    max-height: 150px;
+    /*padding: 5px;
+    border: 1px solid #000000;*/
+}
+
+.imgContainers {
+    float : left;
+    /*width: 200px;*/
+    height: 250px;
+    padding: 0 5px 5px 5px;
+    margin-right: 5px;
+}
+
+
+.text {
+    font-size: 12px;
+    padding-left: 20px;
+}
